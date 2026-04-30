@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/maelstrom-economy/",
+  base: "/Maelstrom-Economy/"
 });
